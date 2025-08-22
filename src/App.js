@@ -1,9 +1,9 @@
-
+import UseStateExample from "./component/hook/UseStateExample";
 
 function App() {
   return (
     <div className="App">
-    <h1>hello</h1>
+    <UseStateExample />
     </div>
   );
 }
